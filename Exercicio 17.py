@@ -1,11 +1,5 @@
 import math
 
-from pygame import mixer
-
-mixer.init ()
-mixer.music.load("kkcte.mp3")
-mixer.music.play()
-
 
 print("primeiro me diga qual seu nome:")
 nome = input()
